@@ -14,6 +14,8 @@ The **Hotel Demand Monitoring and Alert Engine** was developed to address this b
 
 The system processes booking data, calculates occupancy, analyses pickup trends, and generates alerts for high-demand and low-demand periods. The alerts also include recommendations and can be managed through different status stages.
 
+![Hotel Demand Monitoring Dashboard](screenshots/pickup-trends.png)
+
 ---
 
 ## Objectives
@@ -45,6 +47,10 @@ The calculated occupancy is displayed through:
 - Monthly occupancy charts
 - Dashboard statistics
 
+![Hotel Demand Monitoring Dashboard](screenshots/daily-occupancy.png)
+
+![Hotel Demand Monitoring Dashboard](screenshots/monthly-occupancy.png)
+
 ---
 
 ### 2. Pickup Trend Analysis
@@ -73,6 +79,8 @@ The current system includes:
 - **Pickup Spike Alert** – generated when there is an unusual increase in booking activity.
 
 Each alert contains information such as the date, alert type, severity, recommendation, and current status.
+
+![Hotel Demand Monitoring Dashboard](screenshots/revenue-alerts.png)
 
 ---
 
