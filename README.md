@@ -86,11 +86,10 @@ The recommendations can be expanded from the alert table for more details.
 
 ---
 
-### 5. Alert Status Workflow
+### Alert Status Workflow
 
-The system provides a simple workflow for managing generated alerts.
+Generated alerts can be managed through a simple status workflow:
 
-Alerts can move through different stages:
+**Open → In Progress → Reviewed → Closed**
 
-```text
-Open → In Progress → Reviewed → Closed
+Users can update the status of an alert directly from the dashboard. The updated status is stored in the database and remains available after refreshing the application.
